@@ -10,4 +10,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=NecronDRS&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NecronDRS&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?NecronDRS)
